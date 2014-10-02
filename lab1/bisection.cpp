@@ -1,9 +1,7 @@
 /**
 * @file bisection.cpp
-* @duedate 09-25-2014
 * @author Joseph Sutton
-* @class CSCI-3180-001
-* @description Lab 1 Assignment - Bisection Method approximation w/ Horner's algorithm for polynomial evaluation.
+* @description Bisection Method approximation w/ Horner's algorithm for polynomial evaluation.
 * @input error bounds [upper,lower], interval [a,b], polynomial degree, max # of iterations, and corresponding degree coefficients
 */
 
