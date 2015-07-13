@@ -19,9 +19,9 @@ double fp(double);
 
 int main() {
 	// basic decls
-	int		maxSubIntervals;
+	int	maxSubIntervals;
 	double	upperLimit,
-			lowerLimit;
+		lowerLimit;
 
 	// lower limit
 	std::cout << "Enter lower limit: ";
@@ -133,7 +133,7 @@ double evalTrapezoid(double (*f)(double), double a, double b, int n) {
 double evalRichardson(double a, double b, int n) {
 
 	double	ret = 0.0, 
-			h = (double)(b - a) / n;
+		h = (double)(b - a) / n;
 
 	double** calc = new double*[n];
 
