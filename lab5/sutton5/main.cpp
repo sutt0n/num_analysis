@@ -4,7 +4,7 @@
 * @description Evaluating matrices with linear systems via Naive/Partial Pivoting Gaussian Elimination, and Upper Triangular form
 * @input File name; file consists of multiple matrices separated by 2 \n's in which values are tab '\t' delimited
 * @output Matrix representation of original augmented matrices, post-naive gauss. elimination and upper triangular form, 
-*		  and gauss. elimination via partial pivoting w/ upper triangular form.
+* and Gaussian Elimination via Partial Pivoting w/ Upper Triangular form.
 */
 #include <iostream>
 #include <iomanip>
