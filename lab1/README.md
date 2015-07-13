@@ -1,4 +1,4 @@
-Lab Juan
+Lab One
 ========
 
 Bisection Method
