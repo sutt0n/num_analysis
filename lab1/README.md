@@ -1,7 +1,8 @@
 Lab One
 ========
 
-Bisection Method
+Bisection Method - https://en.wikipedia.org/wiki/Bisection_method
+Horner's Algorithm/method - https://en.wikipedia.org/wiki/Horner%27s_method
 
 Bisection Rules
 ===============
