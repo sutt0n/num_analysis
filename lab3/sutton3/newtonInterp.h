@@ -27,11 +27,11 @@ namespace interp {
 		bool interpolated;
 
 		// important properties
-		double**			dataPts;		// data points
-		int					numPts;			// number of data points
-		std::ostream*		out;			// managable output
-		double*				coefficients;	// storing coefficients post-divided difference table calcs
-		double**			ddTable;		// divided difference table
+		double*		dataPts;		// data points
+		int		numPts;			// number of data points
+		std::ostream*	out;			// managable output
+		double*		coefficients;		// storing coefficients post-divided difference table calcs
+		double**	ddTable;		// divided difference table
 	public:
 		// getters
 		const std::ostream* getOutputStream() const;
